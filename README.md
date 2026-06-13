@@ -78,7 +78,7 @@ This project applies Machine Learning algorithms on the **Carseats dataset** to:
 
 ```text
 Carseats-ML-Classification/
-├── projet_ml.ipynb
+├── carseats_ml_classification.ipynb
 ├── Carseats.csv
 └── README.md
 ```
